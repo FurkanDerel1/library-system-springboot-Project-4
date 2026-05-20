@@ -3,15 +3,14 @@
 
  Library Management System - Project 4
 
-This project covers the core functionalities of the library management system, consolidating the knowledge gained through the development process (Tasks 1-4).
+This project covers the core functionalities of the library management system, consolidating the knowledge gained through the development process.
 
- Project Scope (Tasks 1-4)
+ Project Scope 
 - Modular Structure: The project follows standard software architecture principles (domain, controller, service, repository layers).
 - Backend Development: A dynamic library infrastructure built with Java and Spring Boot.
 - Frontend Design: User interfaces implemented using the Thymeleaf template engine and Bootstrap 5 for responsive design.
 - Core Functionalities: - Managing library inventory.
     - Listing and displaying books.
-    - Form handling for user interactions.
 
  Technologies Used
 - Language: Java 17
